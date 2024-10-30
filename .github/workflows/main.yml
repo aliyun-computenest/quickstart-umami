@@ -1,4 +1,3 @@
-  mkdocs.yml
 name: build
 on:
   push:
